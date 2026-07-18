@@ -28,3 +28,6 @@
 ```bash
 make
 ./server
+```
+## 项目展示：
+[点击链接跳转B站运行](https://www.bilibili.com/video/BV1Z7KN6oEjr/?vd_source=9d139c4f15def95ed4a4a4279edb0cd4)
